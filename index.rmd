@@ -1,15 +1,13 @@
 ---
-title: "Learn rmd"
+title: "Welcome_page"
 author: "Marton Kiss"
 date: '2020 július 24 '
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# Its not easy being cheesy
-
 
 ## R Markdown
 
